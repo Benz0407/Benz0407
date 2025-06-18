@@ -1,44 +1,98 @@
-<div align="center" style="background-color:#0d1117; color:#c9d1d9; padding: 20px; border-radius: 10px;">
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p>
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=Benz0407&theme=darkhub&margin-w=15&margin-h=15" alt="Trophies" />
-    </a>
-</p>
-
-<h3>Connect with me:</h3>
-<p>
-    <a href="https://www.facebook.com/benz.clerigo" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-    </a>
-    <a href="https://www.instagram.com/beeeeennnzzz" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
-</p>
-
-<h3>Languages and Tools:</h3>
-<p>
-    <a href="https://dart.dev" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40" />
-    </a>
-    <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" />
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
-    </a>
-    <a href="https://nextjs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" />
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
-    </a>
-</p>
-
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; margin-top: 25px; flex-direction: column; max-width: 800px;">
-    <div><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Benz0407&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" /></div>
-    <div><img src="https://github-readme-stats.vercel.app/api?username=Benz0407&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" /></div>
-    <div><img src="https://github-readme-streak-stats.herokuapp.com/?user=Benz0407&theme=radical" alt="GitHub Streak" /></div>
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Benedick Clerigo</h1></summary>
+  </ul>
 </div>
 
+
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Motivated IT Graduate | Problem Solver | Salesforce Developer</h2></summary>
+  </ul>
 </div>
+
+<!--Intro start-->
+- 🔭 I’m currently working on **Java Spring Boot, React, and Salesforce**
+
+- 🌱 I’m passionate about continuous learning and adapting quickly to new technologies and frameworks.
+
+- 💻 Experienced in developing responsive web and mobile apps using **HTML, CSS, JavaScript, React.js, Flutter**, with backend expertise in **Java, Spring Boot, MySQL, SQLite, PostgreSQL**.
+
+- ⚡ Skilled in **problem-solving, critical thinking, and troubleshooting**, proposing scalable solutions and managing projects efficiently.
+
+- 🌐 I also have hands-on experience in **Salesforce development**, including Apex programming, Lightning Web Components, and business process automation.
+
+- 📫 Feel free to reach me at **benedickclerigo@gmail.com**
+
+<!--Intro end-->
+
+<!--- stats & Trophy (start) -->
+<p align="center">
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Benz0407&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img title="🔥 GitHub streak stats" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Benz0407&theme=dark" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benz0407&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+</td>
+</tr>
+</table>
+
+<!--- trophy (start) -->
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="GitHub Trophies">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Benz0407&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="Trophies" />
+    </a>
+</div>
+
+</p>        
+<!--- stats (end) -->
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know 👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,cpp,html,css,js,php,github,mysql,postgres,dart,flutter,ts,nextjs,git,spring,postman,sqlite,vite" />
+  </a>
+</p>
+
+
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me 🤝</h2></summary>
+  </ul>
+</div>
+
+<!--icons and links-->
+<p align="center">
+<a href="www.linkedin.com/in/benedick-clerigo-06370b253" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="50" width="50" /></a>
+<a href="https://www.instagram.com/yourinstagram" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" height="50" width="50" /></a>
+<a href="mailto:benedickclerigo@gmail.com" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="50" width="50" /></a>
+</p>
+
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+----------------------------------------------------------------------  
+
